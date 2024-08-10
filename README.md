@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @soltanimilad
-- 👀 I’m interested in : Data Science
-- 🌱 I’m currently learning : Python
-- 💞️ I’m looking to collaborate on : Web Developing
-- 📫 How to reach me : miladsoltani471@gmail.com
-- ⚡ Fun fact : My Life
+
