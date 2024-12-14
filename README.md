@@ -14,7 +14,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  style = "height: 80px; width: 80px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  style = "height: 80px; width: 80px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  style = "height: 80px; width: 80px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"  style = "height: 80px; width: 80px;"/>
+    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"  style = "height: 80px; width: 80px;"/>
   </div>
 </body>
 </html>
