@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />         
 </head>
 <body>
     <h1>⚜ About Me</h1>
@@ -16,10 +14,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  style = "height: 80px; width: 80px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  style = "height: 80px; width: 80px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  style = "height: 80px; width: 80px;"/>
-    
-            <i class="devicon-github-original" style = "height: 80px; width: 80px;"></i>
-          
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  style = "height: 80px; width: 80px;"/>
+<i class="devicon-github-original" style = "height: 80px; width: 80px;"></i>        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  style = "height: 80px; width: 80px;"/>
   </div>
 </body>
 </html>
