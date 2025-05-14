@@ -13,7 +13,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  style = "height: 80px; width: 80px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  style = "height: 80px; width: 80px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  style = "height: 80px; width: 80px;"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  style = "height: 80px; width: 80px;"/>
   </div>
 </body>
 </html>
