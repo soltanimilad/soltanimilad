@@ -11,7 +11,9 @@
   <div style="display : flex">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"  style = "height: 80px; width: 80px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"  style = "height: 80px; width: 80px;"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"  style = "height: 80px; width: 80px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"  style = "height: 80px; width: 80px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style = "height: 80px; width: 80px;"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" style = "height: 80px; width: 80px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  style = "height: 80px; width: 80px;"/>    
   </div>
 </body>
